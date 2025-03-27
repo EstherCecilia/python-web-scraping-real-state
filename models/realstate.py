@@ -45,12 +45,12 @@ class RealStateScraper(WebScraper):
         imoveis = []
         
         try:
-            print(f"Processando página {page}")
+            print(f"Processing page {page}")
             page_url = f"{url}&pagina={page}" if "?" in url else f"{url}?pagina={page}"
             self._load_page(page_url)
             imoveis.extend(self._extract_page_data())
         except Exception as e:
-            print(f"Erro durante scraping: {e}")
+            print(f"Error scraping: {e}")
         
         return imoveis
 
@@ -64,17 +64,16 @@ class RealStateScraper(WebScraper):
     def _extract_page_data(self) -> List[Imovel]:
         soup = BeautifulSoup(self.driver.page_source, 'html.parser')
         cards = soup.find_all("article", class_=lambda c: c and c.startswith("card-imovel"))
-        print(f"Encontrados {len(cards)} imóveis na página")
+        print(f"Found {len(cards)} properties on the page")
         return [self._parse_imovel(card) for card in cards]
 
     def _parse_imovel(self, card) -> Optional[Imovel]:
         try:
-            # Extrair endereço completo e separar bairro e rua
             endereco_completo = self._extract_text(card, '.endereco')
             bairro, rua = self._split_endereco(endereco_completo)
             
             return Imovel(
-                endereco=bairro,  # Agora só o bairro (antes da vírgula)
+                endereco=bairro,  
                 rua=rua,
                 area=self._extract_area(card),
                 quartos=self._extract_feature_number(card, 'quartos'),
@@ -83,11 +82,10 @@ class RealStateScraper(WebScraper):
                 preco=self._extract_price(card)
             )
         except Exception as e:
-            print(f"Erro ao processar imóvel: {e}")
+            print(f"Error processor real state: {e}")
             return None
 
     def _split_endereco(self, endereco: str) -> tuple:
-        """Divide o endereço em bairro e rua"""
         if endereco == "N/A":
             return ("N/A", "N/A")
         parts = endereco.split(',')
@@ -96,39 +94,32 @@ class RealStateScraper(WebScraper):
         return (endereco, "N/A")
 
     def _extract_feature_number(self, card, feature_type: str) -> str:
-        """Extrai número de quartos/banheiros/vagas"""
         element = card.select_one(f'.caracteristica.{feature_type}')
         if not element:
             return "0"
         
-        # Encontra o primeiro elemento de texto que é um número
         for content in element.contents:
-            if content.name is None and content.strip():  # É um texto direto
-                # Pega o primeiro token numérico
+            if content.name is None and content.strip():  
                 for token in content.strip().split():
                     if token.isdigit():
                         return token
         return "0"
 
     def _extract_area(self, card) -> str:
-        """Extrai área mantendo o m²"""
         area_element = card.select_one('.caracteristica.area')
         if not area_element:
             return "N/A"
         
-        # Pega todo o texto e limpa
         area_text = area_element.get_text(strip=True)
         # Remove espaços entre número e m² (ex: "53.61 m²" -> "53.61m²")
         return area_text.replace(' ', '').replace(',', '.').replace('m²', '')
 
     def _extract_price(self, card) -> str:
-        """Extrai o preço formatado"""
         price_tag = card.select_one('.valor')
         if not price_tag:
             return "N/A"
         
         price_text = price_tag.get_text(strip=True)
-        # Remove formatação mantendo apenas números
         return price_text.replace('R$', '').replace('.', '').replace(',', '.').strip()
 
     def _extract_text(self, card, selector: str) -> str:
@@ -139,22 +130,22 @@ class DataExporter:
     @staticmethod
     def to_csv(imoveis: List[Imovel], filename: str):
         if not imoveis:
-            print("Nenhum dado para exportar")
+            print("No data to export")
             return
 
         df = pd.DataFrame([vars(imovel) for imovel in imoveis if imovel])
         df.to_csv(filename, index=False, encoding='utf-8-sig')
-        print(f"Dados salvos em {filename}. Total: {len(df)} imóveis")
+        print(f"Data saved in {filename}. Total: {len(df)} properties")
 
 def get_real_state(number_pages, init=1):
-    url = "https://www.netimoveis.com/venda/minas-gerais/belo-horizonte/apartamento?tipo=apartamento&transacao=venda&localizacao=BR-MG-belo-horizonte---&valorMax=250000&valorMin=12000"
+    url = "https://www.netimoveis.com/venda/minas-gerais/belo-horizonte/apartamento?tipo=apartamento&transacao=venda&localizacao=BR-MG-belo-horizonte---&valorMax=300000&valorMin=250000"
     
     pages = number_pages
     for page in range(init ,pages):
         scraper = RealStateScraper()
         try:
             imoveis = scraper.scrape_imoveis(url, page=page)
-            DataExporter.to_csv(imoveis, f"files/real_state_{page}.csv")
+            DataExporter.to_csv(imoveis, f"data/files/real_state_{page}.csv")
         finally:
             scraper.close()
         time.sleep(10)

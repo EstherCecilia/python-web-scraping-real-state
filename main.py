@@ -4,5 +4,5 @@ import models.realstate as realState
 
 if __name__ == "__main__":
     realState.get_real_state(61, 60)
-    process.process_csv('files', 'output/real_state.csv')
-    analytics.analyze_properties('output/real_state.csv')
+    process.process_csv('data/files', 'data/output/real_state.csv')
+    analytics.analyze_properties('data/output/real_state.csv')

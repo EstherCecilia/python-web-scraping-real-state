@@ -1,0 +1,916 @@
+endereco,rua,area,quartos,banheiros,vagas,preco
+Floramar,,45,2,0,0,130000
+Jardim Vitória,,44.44,2,1,1,144000
+São João Batista,,50,2,1,1,200000
+São João Batista (Venda Nova),,50,2,1,1,200000
+São João Batista,,50,2,1,1,200000
+Cachoeirinha,,52.94,2,1,1,235000
+Nova Cachoeirinha,,52.94,2,1,1,235000
+Califórnia,,39,2,1,1,130000
+Betânia,,50,2,1,1,205000
+Rio Branco,,55.86,2,1,1,249000
+Piratininga (venda Nova),,55.86,2,1,1,249000
+João Pinheiro,,50,2,1,1,199000
+Camargos,,50,2,1,1,199000
+Califórnia,,58,3,1,1,215000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Trevo,,50,2,1,1,224999
+Santa Terezinha,,50,2,1,1,225000
+Trevo,,50,2,1,1,225000
+Carlos Prates,,95.79,3,1,0,238000
+Carlos Prates,,95.79,3,1,0,238000
+Dom Silvério,,75,2,1,1,240000
+São Gabriel,,75,2,1,1,240000
+Castelo,,50,2,1,1,240000
+Engenho Nogueira,,50,2,1,1,240000
+Palmares,,33.52,1,1,0,150000
+Vila Cloris,,43,2,1,0,140000
+Solar do Barreiro (Barreiro),,45,2,1,1,130000
+Acaiaca,,44,2,1,1,143000
+Jardim Guanabara,,45,2,0,0,130000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Piratininga (venda Nova),,55.86,2,1,1,249000
+João Pinheiro,,50,2,1,1,199000
+Camargos,,50,2,1,1,199000
+Califórnia,,58,3,1,1,215000
+Planalto,,44,2,1,1,209000
+Jaqueline,,57,3,1,1,215000
+Castelo,,60,2,1,1,160000
+Itatiaia,,60,2,1,1,160000
+Santa Terezinha,,65,2,1,1,170000
+Canaã,,78,1,1,1,190000
+Heliópolis,,64.95,3,1,1,250000
+Heliópolis,,43.42,2,1,0,220000
+Heliópolis,,43.42,2,1,0,220000
+Santa Cecília Vale do Jatobá (Barreiro),,45,2,1,1,150000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Mantiqueira,Rua Wanda Abras,43,2,1,1,185000
+Camargos,Rua Ilmenita,41.15,2,1,1,190000
+Glalijá,Rua Ilmenita,41.15,2,1,1,190000
+Camargos,,48.57,2,1,1,240000
+Serrano,,63.98,3,1,1,213500
+Castelo,,65,3,1,1,249997
+Serrano,,65,3,1,1,249997
+Castelo,,65,3,1,1,249997
+Serrano,,65,3,1,1,249997
+São Bernardo,,62.8,2,1,1,250000
+Heliópolis,,62.8,2,1,1,250000
+Bandeirantes (pampulha),,74.86,2,3,1,250000
+Paquetá,,74.86,2,3,1,250000
+Heliópolis,,67.43,3,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Distrito Industrial (vale do Jatobá),,42,2,1,1,130000
+Distrito Industrial (vale do Jatobá),,42,2,1,1,130000
+Bonsucesso,,57,2,1,1,170000
+Milionários,,57,2,1,1,170000
+Palmares,,33.43,1,1,0,172328
+Jardim América,,48,2,2,1,180000
+Vitória,Avenida Magenta,44,2,1,1,180000
+Heliópolis,,45.5,2,1,1,220000
+São Bernardo,,45.5,2,1,1,220000
+Santa Helena (barreiro),,80,3,1,0,230000
+Santa Helena (barreiro),,80,3,1,0,230000
+São João Batista,,49.52,2,1,1,245000
+Horto,,56,2,1,0,250000
+Milionários,,60,3,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Carlos Prates,,60,3,2,1,289899
+Padre Eustáquio,,60,3,2,1,289899
+Nazaré,,60,2,1,0,290000
+João Pinheiro,,65,2,1,1,295998
+Califórnia,,65,2,1,1,295998
+Leblon (venda Nova),,53.86,2,2,1,270173
+Leblon (venda Nova),,53.86,2,2,1,270173
+Leblon (venda Nova),,53.86,2,2,1,270173
+Leblon (venda Nova),,53.86,2,2,1,270173
+Leblon (venda Nova),,53.86,2,2,1,270173
+Leblon (venda Nova),,53.86,2,2,1,270173
+Leblon (venda Nova),,53.86,2,2,1,270173
+Heliópolis,,64.95,3,1,1,250000
+Santa Efigênia,,64,2,1,1,295000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Monte Azul,Rua Padre Argemiro Moreira,43.33,2,1,1,160000
+Maria Teresa,Rua Padre Argemiro Moreira,43.33,2,1,1,160000
+Centro,Rua Jequeri,67,1,1,0,165000
+Lagoinha,Rua Jequeri,67,1,1,0,165000
+Centro,Rua Jequeri,67,1,1,0,165000
+Lagoinha,Rua Jequeri,67,1,1,0,165000
+Palmares,Rua Coronel Jairo Pereira,28.59,1,1,1,170000
+Jardim Vitória,Rua Lincoln Amarante Ribeiro,44.44,2,1,1,170000
+Madre Gertrudes,Rua Hilarino Benedito Malta,48,2,1,1,170000
+Jardim Vitória,Rua Dois Mil Quatrocentos e Sessenta e Oito,43.82,2,1,0,170000
+Jardim Vitória,Rua Lincoln Amarante Ribeiro,44.44,2,1,1,170000
+São João Batista,Rua Doutor Álvaro Camargos,60,2,1,1,170000
+Maria Teresa,Rua Padre Argemiro Moreira,43.33,2,1,1,175000
+São Gabriel,Rua Padre Argemiro Moreira,43.33,2,1,1,175000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Glalijá,Rua Titânio,43.42,2,1,1,175000
+Camargos,Rua Titânio,43.42,2,1,1,175000
+Serra Verde (venda Nova),Rua Otaviano Penaforte,56,3,1,1,175000
+Fernão Dias,Rua Ana Pereira Menezes,43,2,1,1,179000
+São Gabriel,Rua Ana Pereira Menezes,43,2,1,1,179000
+Santa Lúcia,Rua Manoel Guilherme Roscoe,47.5,2,1,1,180000
+Califórnia,Rua José Cláudio Sanches,40,2,1,1,180000
+Santa Lúcia,Rua Manoel Guilherme Roscoe,47.5,2,1,1,180000
+Ribeiro de Abreu,Rua Serra da Moeda,58.66,3,1,0,180000
+Olaria,Rua Monte Carmelo,60.47,2,1,1,185000
+Juliana,Rua da Galeria,48.56,2,1,1,185000
+Juliana,Rua da Galeria,48.56,2,1,1,190000
+Jaqueline,Rua João Gusman,44.04,2,1,1,190000
+Lagoinha,Rua Jequeri,65,2,2,0,195000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Pongelupe (barreiro),,65,2,1,1,180000
+Solar do Barreiro (Barreiro),,65,2,1,1,180000
+Califórnia,,41,2,1,1,180000
+Camargos,,52,2,1,1,185000
+Juliana,,48.56,2,1,1,185000
+Cachoeirinha,,65.69,2,1,1,190000
+Nova Cachoeirinha,,65.69,2,1,1,190000
+São Gabriel,,47.44,2,1,1,195000
+Ouro Minas,,47.44,2,1,1,195000
+Madre Gertrudes,,59,3,1,1,198000
+Madre Gertrudes,,59,3,1,1,198000
+Ouro Preto,,50,2,1,1,200000
+Paquetá,,50,2,1,1,200000
+Castelo,,50,2,1,1,200000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Vista Alegre,Rua Hilarino Benedito Malta,48,2,1,1,175000
+Madre Gertrudes,Rua Hilarino Benedito Malta,48,2,1,1,175000
+Floresta,Rua Pouso Alegre,54,2,1,0,230000
+Planalto,Rua Osório Duque Estrada - Lado Par,64.35,2,1,1,250000
+Coqueiros,Rua Capanema,65,3,1,0,250000
+Vitória,Rua dos Borges,45,2,1,1,130000
+Jardim Vitória,Rua dos Borges,45,2,1,1,130000
+Visconde do Rio Branco,Rua Zélia,47,2,1,1,160000
+Piratininga (venda Nova),Rua Zélia,47,2,1,1,160000
+Vitória,Rua Nilza Brito,45.15,2,1,1,132000
+Jardim Vitória,Rua Berenice Ribeiro de Miranda,44,2,1,1,149000
+Jardim Vitória,Rua Lincoln Amarante Ribeiro,44.3,2,1,1,150000
+Piratininga (venda Nova),Rua Erva Mate,49,2,1,1,160000
+Nova Gameleira,Rua Cândido de Souza,44,2,1,1,160000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Vitória,Rua Ernesto Tognolo,47.41,2,1,1,220000
+Pousada Santo Antônio,Rua Ernesto Tognolo,47.41,2,1,1,220000
+Betânia,Rua Júlio de Castilho,50.71,2,1,1,240000
+Cinquentenário,Rua Júlio de Castilho,50.71,2,1,1,240000
+Estrela do Oriente,Rua Waldemar Correia de Almeida,53.37,2,1,0,240000
+Nova Suíssa,Rua Carmelita Prates da Silva,28.33,1,2,1,250000
+Salgado Filho,Rua Carmelita Prates da Silva,28.33,1,2,1,250000
+Califórnia,Rua Visconde de Mauá,43.94,2,1,1,245000
+Coqueiros,Rua Barbosa,45,2,1,1,199000
+São Salvador,Rua Barbosa,45,2,1,1,199000
+Jaraguá,Rua Padre Leopoldo Mertens,60,2,1,1,205000
+São Francisco,Rua Padre Leopoldo Mertens,60,2,1,1,205000
+Padre Eustáquio,Rua Vila Rica,60,3,2,1,230000
+Padre Eustáquio,Rua Vila Rica,60,3,2,1,230000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+São Gabriel,,57,2,1,1,160000
+Jardim América,,44.32,2,1,1,165000
+Solar do Barreiro (Barreiro),,45,2,1,0,165000
+Europa,,47.74,2,1,1,170000
+Itaipu,,50.54,2,1,1,170000
+Dom Silvério,,49,2,1,1,170000
+Palmares,,35.79,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Vista Alegre,,45,2,1,1,175000
+Madre Gertrudes,,45,2,1,1,175000
+São Gabriel,,44,2,1,1,180000
+Heliópolis,,52.57,2,1,1,180000
+Urucuia,,57.39,2,1,0,180000
+Califórnia,,41,2,1,1,180000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Jaqueline,Rua João Gusman,70.21,2,1,1,195000
+Trevo,Rua Aloísio Aragão Villar,45,2,1,1,195000
+São Cristóvão,Rua Popular,49.96,2,1,1,198000
+Paulo Vi,Rua Antônio Mariano de Abreu,47.94,2,1,1,200000
+Vila Cloris,Rua das Amoreiras,46,2,1,1,200000
+Camargos,Rua Blenda,48,2,1,1,200000
+São João Batista,Rua Antenor Perdigão,76,3,1,1,200000
+Venda Nova,Avenida Vilarinho,53.41,2,1,1,210000
+Juliana,Rua Joaquim Clemente,49.72,2,1,1,210000
+Betânia,Rua Itamar Teixeira,44,2,1,1,210000
+Belmonte,Rua Nossa Senhora do Amparo,47.44,2,1,1,212000
+Ouro Minas,Rua Nossa Senhora do Amparo,47.44,2,1,1,212000
+Vila Oeste,Rua do Garimpo,50.77,2,1,1,213000
+Venda Nova,,53.66,2,1,1,213000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Padre Eustáquio,,51.84,2,1,1,230000
+Vista Alegre,,51,3,1,0,240000
+Betânia,,51,3,1,0,240000
+Lagoinha,Rua Diamantina,45,1,1,0,195000
+Heliópolis,Rua Sambaíba,58.32,2,1,1,240000
+Guarani,Rua Sambaíba,58.32,2,1,1,240000
+Centro,Rua São Paulo,38,1,0,0,230000
+São João Batista,Rua Antenor Perdigão,76,3,1,1,200000
+Havaí,Rua Maria Beatriz,64,2,1,1,205000
+Urucuia,Rua Três,67.8,3,1,1,250000
+Cardoso,Rua Três,67.8,3,1,1,250000
+Alto dos Pinheiros,,41.43,2,1,0,190000
+João Pinheiro,,41.43,2,1,0,190000
+São Francisco,,77,2,1,1,200000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Califórnia,,58.64,3,1,1,215000
+Califórnia II,,58.64,3,1,1,215000
+Califórnia II,,58.64,3,1,1,215000
+Califórnia,,58.64,3,1,1,215000
+Coração Eucarístico,,50,2,1,1,220000
+Padre Eustáquio,,50,2,1,1,220000
+Planalto,,44,2,1,1,225000
+Alto dos Pinheiros,,65,2,1,1,240000
+João Pinheiro,,65,2,1,1,240000
+Ipiranga,,85,3,2,1,250000
+Renascença,,85,3,2,1,250000
+Colégio Batista,,56.81,3,1,1,250000
+Lagoinha,,56.81,3,1,1,250000
+Palmeiras,Rua Deputado Sebastião Nascimento,72,2,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+São Salvador,Rua Barbosa,41.94,2,1,1,215000
+Manacás,Rua das Amoreiras,45,2,1,1,215000
+Jaqueline,Rua Orlando Mendes,63.23,3,1,1,215000
+Engenho Nogueira,Rua Engenho do Sol,50,2,1,1,218000
+Camargos,Rua Ester Augusta Ribeiro,50,2,1,1,218000
+Madre Gertrudes,Rua São Carlos,50,2,1,1,219000
+Jardim Montanhês,Rua Alípio de Melo,42.93,2,1,1,220000
+Maria Helena,Rua Cricaré,49.87,2,1,1,220000
+Lagoinha,Rua Jequeri,86,2,1,0,220000
+Frei Leopoldo,Rua Lilium,49,2,1,1,220000
+Santa Terezinha,Avenida Professor Clóvis Salgado,69.54,3,1,2,220000
+Itatiaia,Avenida Professor Clóvis Salgado,69.54,3,1,2,220000
+Jaqueline,Rua Jose Gomes Domingues,60,3,1,1,220000
+São João Batista,Rua Antenor Perdigão,76,3,1,1,220000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Santa Amélia,Rua Comendador Teixeira da Costa,43,2,1,1,220000
+São Cristóvão,Avenida José Bonifácio,62,2,1,1,225000
+Santa Mônica,Rua Visconde de Taunay,46.71,2,1,1,225000
+Salgado Filho,Rua Batista Carneiro,40,2,1,1,230000
+Santa Cruz,Rua José Cleto,44,2,1,1,230000
+Renascença,Rua Descalvado,45.56,2,1,0,240000
+Renascença,Rua Descalvado,45.56,2,1,0,240000
+Prado,Rua Perimetral,52.54,2,1,0,247000
+Santa Mônica,Rua Doutor Álvaro Camargos,66,2,1,1,250000
+São João Batista,Rua Doutor Álvaro Camargos,66,2,1,1,250000
+Santa Mônica,Rua Olavo Bilac,62,2,1,1,250000
+Santa Maria,Rua Blenda,46.65,2,1,1,250000
+Camargos,Rua Blenda,46.65,2,1,1,250000
+Colégio Batista,Rua Itamogi,68,2,1,0,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Venda Nova,Rua José Costa,44.27,2,1,1,230000
+São João Batista (Venda Nova),Rua José Costa,44.27,2,1,1,230000
+Conjunto Califórnia,Rua dos Cornetins,59.1,2,1,1,230000
+Copacabana,Rua Joinville,63.67,3,1,1,230000
+Conjunto Califórnia,Rua dos Cornetins,59,3,1,1,230000
+Copacabana,Rua Joinville,70,2,1,1,237000
+Vila Cloris,Rua dos Maçaricos,47,2,1,1,239000
+Centro,Rua dos Tupis,28.9,1,1,0,240000
+Bonfim,Rua Guapé,70,2,1,1,240000
+Santo André,Rua Guapé,70,2,1,1,240000
+Centro,Avenida Augusto de Lima,51,2,1,0,240000
+Havaí,Avenida Costa do Marfim,72,2,1,1,240000
+Nova Granada,Rua Professor Arthur Velloso,45,2,1,1,240000
+Jardim América,Rua Professor Arthur Velloso,45,2,1,1,240000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Estoril,Rua Paulo Piedade Campos,50,2,1,1,225000
+Estoril,Rua Paulo Piedade Campos,50,2,1,1,225000
+Letícia,Avenida Elias Antônio Issa,51.14,2,1,1,225000
+Mantiqueira,Rua das Chácaras,48,2,1,1,225000
+Jaqueline,Rua Orlando Mendes,61.4,3,1,1,225000
+Floramar,Rua Osório Duque Estrada,46,2,1,1,229000
+Campo Alegre,Rua Osório Duque Estrada,46,2,1,1,229000
+Castelo,Rua Vulcânia,60,2,1,1,230000
+Conjunto Celso Machado,Rua Vulcânia,60,2,1,1,230000
+São Francisco,Rua Porto,77,2,1,1,230000
+Trevo,Rua Carlos Lacerda,43,2,1,1,230000
+Centro,Rua do Acre,79.1,2,1,0,230000
+Trevo,Rua Aloísio Aragão Villar,45,2,1,1,230000
+Colégio Batista,Rua Itamogi,58,2,1,0,230000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Jardim Leblon,Rua Pedrinópolis,55,2,2,1,199900
+Manacás,Rua Wiver Hernandes da Silva,42.55,2,1,1,200000
+Monte Azul,Rua Padre Argemiro Moreira,48,2,1,1,200000
+Maria Teresa,Rua Padre Argemiro Moreira,48,2,1,1,200000
+Camargos,Rua Blenda,46.65,2,1,1,210000
+São João Batista (Venda Nova),Rua Doutor Álvaro Camargos - de 1120-1121 a,49.42,2,1,1,212000
+São João Batista,Rua Doutor Álvaro Camargos,49.42,2,1,1,212000
+Lagoinha,Rua Diamantina,45.5,2,1,1,215000
+Pousada Santo Antônio,Rua Ernesto Tognolo,47.41,2,1,1,215000
+Nova Gameleira,Rua Djezar Leite,45.73,2,1,1,218000
+Gameleira,Rua Djezar Leite,45.73,2,1,1,218000
+Castelo,Rua Cantor Luiz Gonzaga,40.44,2,1,0,219000
+São Bernardo,Rua Edson Tomas Santos,51.29,2,1,1,220000
+Serrano,Rua Geraldo de Lima Viana,56.45,2,1,1,220000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Santa Cruz,Rua José Cleto,50,2,1,1,198000
+Centro,Avenida Paraná,50,1,1,0,215000
+São João Batista,Rua José Sanguinete,57.74,3,1,1,220000
+Planalto,Rua Osório Duque Estrada - Lado Par,45,2,1,1,225000
+São João Batista (Venda Nova),Rua Doutor Álvaro Camargos,68,2,1,1,240000
+Trevo,Rua Aloísio Aragão Villar,42,2,1,1,240000
+São Francisco,Rua Caldas da Rainha,48.3,2,1,1,245000
+Santa Tereza,Rua Salinas,60,1,1,0,250000
+Centro,Rua São Paulo,51.54,2,1,0,250000
+Camargos,Rua Gentil Portugal do Brasil,45,2,1,1,210000
+Santa Amélia,Rua Comendador Teixeira da Costa,42.99,2,1,1,215000
+Camargos,Rua Deputado Joaquim Mariano,60,3,1,1,220000
+Conjunto Califórnia,Rua dos Violinos,42,2,1,1,239000
+Santa Maria,Rua Gentil Portugal do Brasil,60,2,1,1,215000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Santa Branca,Rua Joaquim Pereira,63,2,1,1,230000
+Dom Silvério,Rua José Constantino dos Santos,75,2,1,1,249900
+São Gabriel,Rua José Constantino dos Santos,75,2,1,1,249900
+Funcionários,Rua Rio Grande do Norte,13,1,1,0,250000
+Barro Preto,Avenida Paraná,50,1,1,0,250000
+Centro,Avenida Paraná,50,1,1,0,250000
+Itapoã,Rua São Miguel,55,2,1,1,250000
+Aparecida,Rua Aporé,53.25,2,1,1,250000
+Dom Silvério,Rua Fued Mansur Kfuri,43.8,2,1,1,165000
+Jardim Vitória,Rua Dois Mil Quatrocentos e Sessenta e Oito,44.44,2,1,1,130000
+Nova Suíssa,Rua Junquilhos,54,2,1,0,210000
+Camargos,,41.85,2,1,1,200000
+Planalto,,40.54,2,1,1,212000
+Califórnia,,48.37,2,1,1,220000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+São Gabriel,,43.91,2,1,1,180000
+Paulo Vi,,54.27,2,1,1,190000
+Santa Amélia,,50,2,1,1,195000
+Copacabana,,50,2,1,1,195000
+Heliópolis,,63,2,2,1,215000
+Califórnia II,,65,3,1,1,220000
+Califórnia,,65,3,1,1,220000
+Santa Mônica,,58,2,1,1,229000
+Venda Nova,,58,2,1,1,229000
+Camargos,,46.65,2,1,1,240000
+Nova Floresta,,57,2,1,1,250000
+Distrito Industrial (vale do Jatobá),,42,2,1,1,130000
+Camargos,,50,2,1,0,180000
+Califórnia,,50,2,1,0,180000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Califórnia,Rua Visconde de Mauá,50,2,1,1,220000
+Copacabana,Rua Joinville,48,2,1,1,239000
+Jaqueline,Rua Maria Ambrosia de Sá,44,2,1,1,240000
+Itapoã,Rua São Miguel,19.28,1,1,0,250000
+Cidade Jardim,Rua Paulo Simoni,12,1,1,0,250000
+Santo Antônio,Rua Paulo Simoni,12,1,1,0,250000
+Cidade Jardim,Rua Paulo Simoni,12,1,1,0,250000
+Santo Antônio,Rua Paulo Simoni,12,1,1,0,250000
+São Gabriel,,40,2,1,1,170000
+Ouro Minas,,40,2,1,1,170000
+Ouro Minas,,40,2,1,1,170000
+São Gabriel,,40,2,1,1,170000
+Heliópolis,,48,2,1,1,180000
+Dom Silvério,,43.91,2,1,1,180000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Lagoinha,Praça Professor Correa Neto,75,2,1,1,210000
+Venda Nova,Rua Rosa Zandona,58.43,3,1,1,215000
+São João Batista (Venda Nova),Rua Rosa Zandona,58.43,3,1,1,215000
+São João Batista (Venda Nova),Rua Rosa Zandona,58.43,3,1,1,215000
+Venda Nova,Rua Rosa Zandona,58.43,3,1,1,215000
+Centro,Rua dos Carijós,58.71,2,1,0,220000
+Centro,Rua dos Carijós,58.71,2,1,0,220000
+Cachoeirinha,Avenida José Bonifácio,66.28,2,1,1,220000
+São Cristóvão,Avenida José Bonifácio,66.28,2,1,1,220000
+Cachoeirinha,Avenida José Bonifácio,66.28,2,1,1,220000
+São Cristóvão,Avenida José Bonifácio,66.28,2,1,1,220000
+Santa Branca,Rua Joaquim Pereira,63,2,1,1,230000
+Jardim Paqueta,Rua Glauber Rocha,42.55,2,1,1,230000
+Paquetá,Rua Glauber Rocha,42.55,2,1,1,230000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Palmares,Rua Coronel Jairo Pereira,20,1,1,0,130000
+Nova Gameleira,Rua Cândido de Souza,45,2,1,1,175000
+Madre Gertrudes,Rua São Carlos,45,2,1,0,180000
+Jaqueline,Rua Timóteo Nonato Nascimento,43.18,2,1,1,190000
+Juliana,Rua Timóteo Nonato Nascimento,43.18,2,1,1,190000
+Juliana,Rua Timóteo Nonato Nascimento,43.18,2,1,1,190000
+Jaqueline,Rua Timóteo Nonato Nascimento,43.18,2,1,1,190000
+Caiçaras,Rua Alípio de Melo,43,2,1,1,220000
+Jardim Montanhês,Rua Alípio de Melo,43,2,1,1,220000
+Calafate,Rua Perimetral,61,3,1,0,230000
+Prado,Rua Perimetral,61,3,1,0,230000
+São Gabriel,,43,2,1,1,165000
+São Gabriel,Rua Ana Pereira Menezes,42.98,2,1,1,180000
+Candelária,Rua Augusta Alvarenga Inez,46,2,1,1,180000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Camargos,Rua Gentil Portugal do Brasil,60,2,1,1,215000
+Jaqueline,Rua João Gusman,47,2,1,1,175000
+São Cristóvão,Rua Juazeiro,37.7,1,1,0,180000
+Vitória,Rua Dois Mil Quatrocentos e Sessenta e Oito,48,2,1,1,144000
+Jardim Vitória,Rua Dois Mil Quatrocentos e Sessenta e Oito,48,2,1,1,144000
+Acaiaca,Rua Maria Guerzoni Fernandes,42.9,2,1,1,154900
+Vista do Sol,Rua Maria Guerzoni Fernandes,42.9,2,1,1,154900
+Vista do Sol,Rua Maria Guerzoni Fernandes,42.9,2,1,1,154900
+Acaiaca,Rua Maria Guerzoni Fernandes,42.9,2,1,1,154900
+Jaqueline,Rua Carlos Romeu,49,2,1,1,160000
+São João Batista,Rua Augusta Alvarenga Inez,45.89,2,1,1,170000
+Candelária,Rua Augusta Alvarenga Inez,45.89,2,1,1,170000
+Santa Mônica,Rua Augusto dos Anjos,51,2,1,1,170000
+Camargos,,46.65,2,1,1,170000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Califórnia,Rua Plaza Mayor,45,2,1,1,240000
+João Pinheiro,Rua Vesta,50,2,1,1,240000
+Alto dos Pinheiros,Rua Vesta,50,2,1,1,240000
+Madre Gertrudes,Rua Ephigênio Salles Víctor,43,2,1,1,240000
+Suzana,Rua Abacaba,65.41,2,1,1,240000
+Vila Oeste,Rua do Garimpo,45.77,2,1,1,240000
+Betânia,Rua Itamar Teixeira,44.03,2,1,1,240000
+Santa Branca,Rua Joaquim Pereira,62.46,2,1,1,245000
+Venda Nova,Avenida Vilarinho,53.41,2,1,1,245000
+Califórnia,Rua Plaza Mayor,43.96,2,1,1,247000
+Venda Nova,Rua Jorge Kalil Abras,54,2,1,1,250000
+Mantiqueira,Rua Jorge Kalil Abras,54,2,1,1,250000
+Califórnia,Rua Plaza Mayor,45,2,1,1,250000
+Carlos Prates,Rua Peçanha,50,2,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Santa Amélia,Avenida Virgílio de Melo Franco,47,2,1,1,150000
+Belmonte,Rua Dom Aquino,45,2,1,1,150000
+Nova Cachoeirinha,Praça Bernardo da Veiga,55,3,2,1,250000
+Juliana,,53.54,2,1,1,243000
+Jaqueline,,53.54,2,1,1,243000
+Juliana,,53.54,2,1,1,240000
+Jaqueline,,53.54,2,1,1,240000
+Juliana,,53.54,2,1,1,240000
+Jaqueline,,53.54,2,1,1,240000
+Juliana,,53.54,2,1,1,243000
+Jaqueline,,53.54,2,1,1,243000
+Juliana,,53.54,2,1,1,246000
+Jaqueline,,53.54,2,1,1,246000
+Juliana,,53.54,2,1,1,249000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Jaqueline,Rua Carlos Romeu,48.91,2,1,1,160000
+Nazaré,Rua Maria Guerzoni Fernandes,43.23,2,1,1,140000
+Acaiaca,Rua Maria Guerzoni Fernandes,43.23,2,1,1,140000
+Jardim Vitória,Rua Berenice Ribeiro de Miranda,44.83,2,1,1,150000
+Serra Verde (venda Nova),Rua Antônio de Paiva Meirelles,45,2,1,1,150000
+Acaiaca,Rua João Lemos,43.23,2,1,1,160000
+Centro,,99,2,1,0,170000
+Barro Preto,,99,2,1,0,170000
+Barro Preto,,99,2,1,0,170000
+Centro,,99,2,1,0,170000
+Solimões,Rua Caviúna,49,2,1,1,179000
+Madre Gertrudes,Rua São Carlos,50,2,1,1,185000
+Santa Terezinha,Rua Congonhal,65,2,1,2,190000
+São João Batista,Rua Santo Antônio,49.94,2,1,1,190000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Floramar,Rua Lúcio de Oliveira,48,2,1,1,195000
+Califórnia II,Rua Nevada,50.31,2,1,0,198000
+Califórnia,Rua Nevada,50.31,2,1,0,198000
+Califórnia,Rua Nevada,50.31,2,1,0,198000
+Califórnia II,Rua Nevada,50.31,2,1,0,198000
+Coqueiros,Rua Barbosa,41.94,2,1,1,200000
+São Salvador,Rua Barbosa,41.94,2,1,1,200000
+Letícia,Rua Basiléia,49,2,1,1,200000
+Europa,Rua Basiléia,49,2,1,1,200000
+Ouro Minas,Rua Nossa Senhora do Amparo,47.82,2,1,1,200000
+São Marcos,Rua do Lago,130,3,2,0,200000
+São Marcos,Rua do Lago,130,3,2,0,200000
+Lagoinha,Praça Professor Correa Neto,75,2,1,1,210000
+Mantiqueira,Rua das Chácaras,57.13,2,1,1,210000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Jaqueline,,53.54,2,1,1,249000
+Juliana,,53.54,2,1,1,240000
+Jaqueline,,53.54,2,1,1,240000
+Jardim Vitória,Rua dos Borges,54.33,2,1,1,160000
+Jardim Vitória,Rua Lincoln Amarante Ribeiro,52,2,1,1,165000
+Lagoinha,Rua Amadeu Quaglia,22.73,1,1,1,170000
+São Cristóvão,Rua Amadeu Quaglia,22.73,1,1,1,170000
+Flávio de Oliveira,Rua Intersindical,58,2,1,1,170000
+São Gabriel,Rua da Batalha dos Palmares,40,2,1,0,180000
+São Salvador,Rua Barbosa,41.97,2,1,1,200000
+Santa Amélia,Rua Comendador Teixeira da Costa,42.98,1,1,1,210000
+Coqueiros,Rua Chopotó,45.24,2,1,1,220000
+Pindorama,Rua Chopotó,45.24,2,1,1,220000
+Camargos,Rua Visconde de Mauá,50,2,1,1,220000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Itapoã,Avenida Portugal,48.77,2,1,1,250000
+Jardim América,Rua Maquiné,43,2,1,1,250000
+Salgado Filho,Rua Maquiné,43,2,1,1,250000
+Piratininga (venda Nova),Rua Andradina,48,2,2,1,250000
+Piratininga (venda Nova),Rua Andradina,48,2,2,1,250000
+Camargos,Rua Zircônio,46,2,1,1,250000
+Camargos,Rua Zircônio,46,2,1,1,250000
+São Cristóvão,Avenida José Bonifácio,62,2,1,1,250000
+Salgado Filho,Rua Souza Menezes,65,2,2,1,250000
+Juliana,Rua Alva,52.2,2,1,1,250000
+Maria Helena,Rua Raul Régis Sena,50,2,1,1,250000
+Goiânia,Rua Pomba,48,2,1,1,250000
+Barreiro,Rua Oliveiro Márciano,45,2,1,1,250000
+Diamante (Barreiro),Rua Oliveiro Márciano,45,2,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Monte Azul,Rua Padre Argemiro Moreira,48,2,1,1,170000
+Maria Teresa,Rua Padre Argemiro Moreira,48,2,1,1,170000
+Europa,Rua C,48.88,2,1,1,175000
+Acaiaca,Rua João Lemos,48,2,1,1,180000
+Paulo Vi,Rua João Lemos,48,2,1,1,180000
+Ribeiro de Abreu,Rua Serra da Moeda,58.66,2,1,0,180000
+Belmonte,Rua Papa Honório Iii,41.3,2,1,1,180000
+Ouro Minas,Rua Papa Honório Iii,41.3,2,1,1,180000
+Europa,Rua Basiléia,48,2,1,1,180000
+Paulo Vi,Rua João Lemos,48,2,1,1,180000
+Acaiaca,Rua João Lemos,48,2,1,1,180000
+Jardim Vitória,Rua dos Borges,43.82,2,1,1,195000
+Colégio Batista,Rua Araxá,49.75,2,1,0,199000
+Céu Azul,Rua Pedrinópolis,55,2,2,1,199900
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Bandeirantes (pampulha),Avenida Professor Clóvis Salgado,48,2,1,1,250000
+São João Batista,Rua José Sanguinete,70,3,1,1,250000
+Venda Nova,Rua José Sanguinete,70,3,1,1,250000
+Camargos,Rua Zircônio,46.65,2,1,1,250000
+Planalto,Rua Osório Duque Estrada,48,2,1,1,250000
+Campo Alegre,Rua Osório Duque Estrada,48,2,1,1,250000
+Venda Nova,Rua José Sanguinete,70,3,1,1,250000
+São João Batista,Rua José Sanguinete,70,3,1,1,250000
+Califórnia,Rua José Cláudio Sanches,54.5,3,1,1,250000
+Letícia,Rua Padre Pedro Pinto,57,2,1,1,234000
+Venda Nova,Rua Padre Pedro Pinto,57,2,1,1,234000
+Planalto,Rua Doutor José Welinton,52,2,1,1,230000
+São João Batista,Rua José Sanguinete,86.21,2,1,0,180000
+Venda Nova,Rua José Sanguinete,86.21,2,1,0,180000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Estoril,,55,2,1,1,215000
+Acaiaca,,60.88,2,1,1,220000
+Califórnia,,48.07,2,1,1,230000
+Flávio Marques Lisboa,,62,3,1,1,230000
+Conjunto Califórnia,,70,3,1,1,230000
+Flávio Marques Lisboa,,62,3,1,1,230000
+Renascença,,44.21,1,1,1,250000
+Ipiranga,,44.21,1,1,1,250000
+Trevo,,42.17,2,1,1,250000
+Salgado Filho,,64,3,1,1,250000
+Ipiranga,,44.21,1,1,1,250000
+Renascença,,44.21,1,1,1,250000
+Trevo,,42.17,2,1,1,250000
+Centro,,50,2,1,0,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Ouro Preto,Rua Alcobaça,46.02,2,1,1,190000
+São Francisco,Rua Alcobaça,46.02,2,1,1,190000
+Floramar,Rua Jose Gonçalves Pimenta,50,2,1,1,222000
+Heliópolis,Rua Jose Gonçalves Pimenta,50,2,1,1,222000
+São Francisco,Rua Estoril,52,2,1,1,230000
+Alto dos Pinheiros,,42.39,2,1,1,215000
+João Pinheiro,,42.39,2,1,1,215000
+Eymard,Rua Ana Pereira Menezes,43,2,1,1,179000
+São Gabriel,Rua Ana Pereira Menezes,43,2,1,1,179000
+Santa Amélia,Avenida Virgílio de Melo Franco,45,2,1,1,180000
+Santa Amélia,Avenida Virgílio de Melo Franco,45,2,1,1,180000
+Califórnia,Rua José Cláudio Sanches,52.96,2,1,1,190000
+Caiçaras,Rua Professor Francisco Henriques,67.65,2,1,0,220000
+Calafate,Rua Perimetral,70,3,1,0,245000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+São João Batista,Rua José Sanguinete,64.48,3,1,1,250000
+Madre Gertrudes,Rua Hilarino Benedito Malta,92,3,1,1,250000
+Jaqueline,Rua Orlando Mendes,63.36,3,1,1,250000
+Nova Gameleira,Rua Dom Oscar Romero,66.17,3,2,1,250000
+Ouro Minas,Rua Anna Maria de Jesus,67,3,1,1,250000
+Aarão Reis,Rua Anna Maria de Jesus,67,3,1,1,250000
+São Francisco,Rua Batalha,52,2,1,1,200000
+Jardim Vitória,Rua Dois Mil Quatrocentos e Sessenta e Oito,44.44,2,1,1,140000
+Santa Maria,Rua das Ostras,49,2,0,1,235000
+Serrano,Rua Hélia Ricaldoni de Freitas,49.44,2,1,1,180000
+Vista Alegre,Rua Paiva,45,2,1,1,120000
+Piratininga (venda Nova),Rua Erva Mate,48,2,1,1,140000
+Juliana,Rua Izabel Raso,45,2,1,1,150000
+Jaqueline,Rua Izabel Raso,45,2,1,1,150000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Barreiro,,43.75,2,1,1,185000
+Bonsucesso,,43.75,2,1,1,185000
+Jardim Vitória,,43.99,2,1,1,190000
+Vitória,,43.99,2,1,1,190000
+Barreiro,,45.38,2,1,0,190000
+Novo das Indústrias,,45.38,2,1,0,190000
+Primeiro de Maio,,42.98,2,1,1,198000
+São Gabriel,,42.98,2,1,1,198000
+Flávio Marques Lisboa,,46,2,1,1,200000
+Petrópolis (vale do Jatobá),,44.27,2,1,1,210000
+Vale do Jatobá,,44.27,2,1,1,210000
+Petrópolis (barreiro),,44.27,2,1,1,210000
+Vale do Jatobá,,44.27,2,1,1,210000
+Estrela Dalva,,55,2,1,1,215000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Califórnia,Rua Visconde de Mauá,45,2,1,1,215000
+Coqueiros,Rua Cambé,55,3,1,1,215000
+Frei Leopoldo,Rua Jose Gomes Domingues,71,3,1,1,215000
+Jaqueline,Rua Jose Gomes Domingues,71,3,1,1,215000
+Itatiaia,Rua Carlos Campos Motta,45,2,1,1,220000
+Camargos,Rua Joaquim Gonçalves Pimenta,75,2,1,1,225000
+Santa Maria,Rua Joaquim Gonçalves Pimenta,75,2,1,1,225000
+Lagoinha,Rua Jequeri,68,3,1,0,238000
+Floramar,Rua Paulo Kruger Mourão,91,2,1,1,239000
+Jardim Guanabara,Rua Paulo Kruger Mourão,91,2,1,1,239000
+Lagoinha,Rua Itabira,45,2,1,0,240000
+Venda Nova,Rua Jorge Kalil Abras,48,2,1,1,250000
+Mantiqueira,Rua Jorge Kalil Abras,48,2,1,1,250000
+Santa Terezinha,Avenida Professor Clóvis Salgado,48,2,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Prado,Rua Perimetral,70,3,1,0,245000
+Santa Cruz (barreiro),Estrada do Jatobá,44.98,2,1,1,150000
+Ipanema,Avenida Avaí,47.03,2,1,1,160000
+Dom Bosco,Avenida Avaí,47.03,2,1,1,160000
+Vera Cruz,Rua Magnésio,47.07,2,1,1,178000
+Jonas Veiga,Rua Magnésio,47.07,2,1,1,178000
+Venda Nova,Avenida Vilarinho,53.41,2,1,1,220000
+Venda Nova,Avenida Vilarinho,53.66,2,1,1,230000
+Camargos,Rua Gentil Portugal do Brasil,48.57,2,1,1,250000
+Copacabana,Rua Adriano Trindade Teixeira,60,2,1,1,240000
+Monte Carmelo,Rua Adriano Trindade Teixeira,60,2,1,1,240000
+Monte Carmelo,Rua Adriano Trindade Teixeira,60,2,1,1,240000
+Copacabana,Rua Adriano Trindade Teixeira,60,2,1,1,240000
+Planalto,Rua Albatroz,43,2,1,0,140000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Salgado Filho,,64,3,1,1,250000
+Nova Cintra,Rua Cândido de Souza,48.5,2,1,1,160000
+Nova Gameleira,Rua Cândido de Souza,48.5,2,1,1,160000
+Pousada Santo Antônio,Rua Ernesto Tognolo,46.95,2,0,1,248000
+Pousada Santo Antônio,Rua Ernesto Tognolo,48.73,2,1,1,248000
+Jardim Vitória,Rua Dois Mil Quatrocentos e Sessenta e Nove,44,2,1,1,160000
+Aarão Reis,,61.72,3,1,1,210000
+Guarani,,61.72,3,1,1,210000
+Venda Nova,Avenida Vilarinho,53.66,2,1,1,220000
+Califórnia,Rua Plaza Mayor,45,2,1,1,230000
+Bandeirantes (pampulha),Avenida Professor Clóvis Salgado,43,2,1,1,250000
+Cachoeirinha,Rua Itapetinga,60,2,1,0,220000
+Cachoeirinha,Rua Itapetinga,60,2,1,0,220000
+Santa Efigênia,,65,2,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Acaiaca,,46.73,2,0,1,130000
+Piratininga (venda Nova),,47.85,2,1,1,135000
+Juliana,,45,2,1,1,140000
+Jaqueline,,45,2,1,1,140000
+Distrito Industrial (vale do Jatobá),,42,2,1,1,145000
+Barreiro,,45,2,1,1,145000
+Solar do Barreiro (Barreiro),,45,2,1,1,145000
+Santa Cruz,,33.52,1,0,0,150000
+Cenáculo,,47.62,2,1,1,150000
+Nova Cintra,,48,2,1,1,150000
+Nova Gameleira,,48,2,1,1,150000
+Juliana,,47,2,1,1,160000
+Califórnia,,44.42,2,1,1,160000
+Juliana,,47,2,1,1,160000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Vila Cloris,Rua Albatroz,43,2,1,0,140000
+Solar do Barreiro (Barreiro),Rua Robertson Pinto Coelho,47,2,1,1,150000
+Santo André,Rua Mendes de Oliveira,75,2,1,1,240000
+Camargos,Rua Gentil Portugal do Brasil,45,2,1,1,235000
+Senhor Bom Jesus,Rua Dois Mil Quatrocentos e Sessenta e Nove,40,2,1,0,125000
+Jardim Vitória,Rua Dois Mil Quatrocentos e Sessenta e Nove,40,2,1,0,125000
+São Luiz (pampulha),Avenida Professor Magalhães Penido,19.53,1,1,0,185000
+Parque Leblon,Rua Pinheirinhos,55,2,1,1,229000
+São João Batista,,45,2,1,1,170000
+Laranjeiras,,56.63,3,1,2,220000
+Serra Verde (venda Nova),,56.63,3,1,2,220000
+Conjunto Califórnia,,58.64,2,1,1,240000
+Califórnia,,58.64,2,1,1,240000
+Juliana,Rua José Luiz Azevedo,40,2,1,1,165000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Califórnia,Rua José Cláudio Sanches,53.61,2,1,1,190000
+Nova Gameleira,Rua Cândido de Souza,55,2,1,1,237000
+Juliana,Rua Timóteo Nonato Nascimento,43.18,2,1,1,190000
+Jaqueline,Rua Timóteo Nonato Nascimento,43.18,2,1,1,190000
+Céu Azul,Rua México,44.32,2,1,1,150000
+Jardim Leblon,Rua México,44.32,2,1,1,150000
+Ribeiro de Abreu,Rua Antônio Mariano de Abreu,48,2,1,1,180000
+Paulo Vi,Rua Antônio Mariano de Abreu,48,2,1,1,180000
+Manacás,Rua das Amoreiras,40,3,1,1,190000
+Nova Cintra,Rua Cândido de Souza,44,2,1,1,199500
+Nova Gameleira,Rua Cândido de Souza,44,2,1,1,199500
+Carlos Prates,Rua Araguari,47,1,1,0,211000
+Barro Preto,Rua Araguari,47,1,1,0,211000
+Camargos,Rua Visconde de Mauá,45,2,1,1,215000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Prado,,46,2,1,0,240000
+Camargos,,50.46,2,1,1,240000
+Califórnia,,50.46,2,1,1,240000
+Nova Granada,,60,2,2,1,240000
+Conjunto Califórnia,,75,3,1,1,240000
+Santa Maria,,54.09,3,1,1,240000
+Estoril,,52.63,2,1,1,248000
+Havaí,,52.63,2,1,1,248000
+São João Batista,,48.16,2,1,1,250000
+Centro,,68.2,2,1,0,250000
+João Pinheiro,,64.86,2,2,1,250000
+João Pinheiro,,65,2,1,1,250000
+Santa Amélia,,45,2,1,1,250000
+Santa Mônica,,45,2,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Santa Efigênia,,62.66,3,1,1,250000
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Acaiaca,,46.73,2,1,1,180000
+Camargos,,46,2,1,1,220000
+Califórnia,,46,2,1,1,220000
+Santa Amélia,,43,2,1,1,230000
+Centro,,63,2,1,0,240000
+Santa Mônica,Rua dos Crenaques,40,2,1,1,169000
+Dona Clara,,40,1,1,0,120000
+Primeiro de Maio,,40,1,1,0,120000
+Granja de Freitas,,44.32,2,1,1,120000
+Granja de Freitas,,52.44,3,1,2,130000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Ribeiro de Abreu,,53.87,2,1,1,138000
+Acaiaca,,53.87,2,1,1,138000
+Solar do Barreiro (Barreiro),,45.28,2,1,1,140000
+Dona Clara,,42,1,1,0,150000
+Primeiro de Maio,,42,1,1,0,150000
+Jardim Vitória,,43.82,2,1,1,150000
+Jardim Vitória,,43.82,2,1,1,150000
+Paulo Vi,,42.9,2,1,1,150000
+Acaiaca,,42.9,2,1,1,150000
+Jaqueline,,42.43,2,1,1,155000
+São Gabriel,,58,3,1,1,155000
+Etelvina Carneiro,,50,2,1,1,159000
+Juliana,,50,2,1,1,159000
+Tirol,,52,2,1,1,160000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Califórnia II,,58.64,2,2,0,250000
+Califórnia,,58.64,2,2,0,250000
+Coração Eucarístico,,42,2,1,1,250000
+Padre Eustáquio,,42,2,1,1,250000
+Santa Branca,,46.54,2,1,1,250000
+Heliópolis,,69,2,2,1,250000
+São João Batista,,48.16,2,1,1,250000
+Santa Mônica,,49.52,2,1,1,250000
+São João Batista,,49.52,2,1,1,250000
+Nova Gameleira,,57.15,2,1,1,250000
+Padre Eustáquio,,100,3,1,1,250000
+Jaqueline,,125.26,3,1,1,250000
+Maria Helena,Rua Cricaré,68.37,2,1,1,245000
+Califórnia,,47,2,1,1,235000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Alpes,,45,2,1,1,199000
+Jardim América,,45,2,1,1,199000
+Serrano,,47,2,1,1,200000
+Santa Branca,,49.48,2,1,1,201400
+Caiçaras,,35.98,1,1,0,205000
+São João Batista,,58.27,2,1,1,210000
+Paquetá,,44,2,1,1,210000
+João Pinheiro,,60,3,1,1,215000
+Califórnia,,60,3,1,1,215000
+Havaí,,60,2,1,1,220000
+Alto Barroca,,56,2,2,0,220000
+Camargos,,40,2,1,1,220000
+Califórnia,,40,2,1,1,220000
+São João Batista (Venda Nova),,60,2,1,1,220000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Madre Gertrudes,,41.63,2,1,1,200000
+Trevo,,42.1,2,1,1,217256
+Coração Eucarístico,,41.43,2,1,1,250000
+João Pinheiro,,41.43,2,1,1,250000
+Santa Mônica,Rua Augusto dos Anjos,55,2,1,1,155000
+Jaqueline,,47.62,2,1,1,220000
+Acaiaca,Rua Maria Guerzoni Fernandes,43.23,2,1,1,130000
+Venda Nova,Rua Wanda Abras,43,2,1,1,185000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+São Gabriel,Rua Padre Argemiro Moreira,43.33,2,1,1,180000
+Floramar,Rua Professora Gabriela Varela,52.66,2,1,1,220000
+Jardim Alvorada,Rua Flor DÁgua,50,2,1,0,150000
+Santa Maria,,48.57,2,1,1,240000
+Camargos,,48.57,2,1,1,240000
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,30.53,1,1,0,172328
+Palmares,,33.43,1,1,0,172328
+Palmares,,35.79,1,1,0,172328
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Jatobá (Barreiro),,52,2,1,1,160000
+São Luiz,,45,2,1,1,160000
+Juliana,,41.93,2,1,1,165000
+Goiânia,,43.82,2,1,1,170000
+Jardim Vitória,,43.82,2,1,1,170000
+Santa Mônica,,59,2,1,1,170000
+Santa Mônica,,59,2,1,1,170000
+Juliana,,42,2,1,1,180000
+Acaiaca,,42,2,1,1,180000
+São João Batista,,51.67,2,1,1,185000
+Horto,,40,1,1,0,190000
+Floresta,,72,2,1,0,190000
+Mangueiras (barreiro),,42.95,2,1,1,195000
+Serrano,,47,2,1,1,195000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Heliópolis,,49,2,1,1,145000
+Alípio de Melo,,46,2,1,1,150000
+Manacás,,46,2,1,1,150000
+Canaã,,41.6,2,1,1,150000
+Castanheira I (vale do Jatobá),,46.6,2,1,1,160000
+Santa Maria,,42,2,1,1,195000
+Camargos,,42,2,1,1,195000
+Bonsucesso,,45.87,2,1,1,250000
+Santa Maria,,45,3,1,1,250000
+Castelo,,50,2,1,2,224998
+Engenho Nogueira,,50,2,1,2,224998
+Castelo,,44.9,2,1,0,250000
+Bonsucesso,,45.87,2,1,1,250000
+Bonsucesso,,45.87,2,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+João Pinheiro,,42.39,2,1,1,220000
+João Pinheiro,,47.36,2,1,0,220000
+Jardim Leblon,,53.37,2,1,1,220000
+Acaiaca,,47.94,2,1,1,220000
+Paulo Vi,,47.94,2,1,1,220000
+Camargos,,48,2,1,1,220000
+Guarani,,62,3,1,1,220000
+Aarão Reis,,62,3,1,1,220000
+São João Batista,,60,2,1,1,225000
+Santa Maria,,47.02,2,1,1,227000
+Planalto,,49.63,2,1,1,229000
+Campo Alegre,,49.63,2,1,1,229000
+Coqueiros,,46,2,1,1,229000
+Pindorama,,46,2,1,1,229000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Alto dos Pinheiros,,52,2,1,1,230000
+João Pinheiro,,52,2,1,1,230000
+Camargos,,55,2,1,1,230000
+Califórnia,,55,2,1,1,230000
+São João Batista,,49,2,1,1,230000
+Alto dos Pinheiros,,52,2,1,1,230000
+João Pinheiro,,52,2,1,1,230000
+Salgado Filho,,52.53,2,1,1,233000
+Padre Eustáquio,,54,2,1,1,234900
+Caiçaras,,49.67,2,1,1,235000
+São Cristóvão,,65,2,1,1,235000
+Guarani,,63,2,2,1,240000
+Heliópolis,,63,2,2,1,240000
+Carlos Prates,,46,2,1,0,240000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Itapoã,Rua São Miguel,19.98,1,1,0,200000
+União,,40.27,2,1,1,250000
+João Pinheiro,,45,2,1,1,144997
+Califórnia,,45,2,1,1,144997
+Novo Tirol,,44,2,1,1,155000
+Jatobá (Barreiro),,44,2,1,1,155000
+Bandeirantes (pampulha),,60,2,1,2,189000
+Maria Teresa,,47,2,1,1,210000
+Califórnia,,48.07,2,1,1,212000
+Califórnia,,45,2,1,1,218000
+Conjunto Celso Machado,,44,2,1,1,220000
+Santa Terezinha,,50,2,1,1,224999
+Trevo,,50,2,1,1,224999
+Santa Terezinha,,50,2,1,1,224999
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+São João Batista (Venda Nova),,50,2,1,1,215000
+São João Batista,,49,2,1,1,215000
+Heliópolis,,51.33,2,1,1,215000
+Heliópolis,,51,2,1,1,215000
+Camargos,,45,2,1,1,220000
+Santa Maria,,45,2,1,1,220000
+Camargos,,45,2,1,1,220000
+Santa Maria,,45,2,1,1,220000
+Aarão Reis,,62,3,1,1,220000
+Guarani,,62,3,1,1,220000
+Santa Mônica,,42.99,2,1,1,220000
+Santa Amélia,,42.99,2,1,1,220000
+Camargos,,44,2,1,1,220000
+Califórnia,,44,2,1,1,220000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Serrano,,45,2,1,1,250000
+Centro,,50,2,1,0,250000
+São João Batista,,54.46,2,1,1,250000
+Nova Gameleira,,57.15,2,2,1,250000
+Nova Gameleira,,57.15,2,2,1,250000
+Camargos,,45,2,1,1,230000
+Califórnia,,45,2,1,1,230000
+Barro Preto,Rua dos Tupis,50,2,1,0,220000
+Vista Alegre,,45,2,1,1,120000
+Camargos,,46.61,2,1,1,240000
+Santa Maria,,46.61,2,1,1,240000
+São João Batista,,49.43,2,1,1,250000
+Candelária,,49.43,2,1,1,250000
+Aarão Reis,,62,2,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Camargos,,52,2,1,1,220000
+Centro,,50,1,1,0,225000
+Santa Branca,,62.47,2,1,1,225000
+Santa Terezinha,,42,2,1,1,230000
+São Bernardo,,64.97,3,1,1,235000
+Heliópolis,,64.97,3,1,1,235000
+Prado,,60,2,1,1,240000
+Madre Gertrudes,,70,2,1,1,240000
+Camargos,,46,2,1,1,240000
+Jardim América,,55,2,1,1,240000
+Camargos,,48.07,2,1,1,250000
+Califórnia,,48.07,2,1,1,250000
+São João Batista,,51.26,2,2,0,250000
+Diamante (Barreiro),,43.96,2,1,1,250000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
+Paquetá,,50,2,1,1,200000
+Heliópolis,,44.03,2,1,1,200000
+Santa Terezinha,,50,2,1,1,209997
+Trevo,,50,2,1,1,209997
+Centro,,27.83,1,1,0,210000
+Inconfidência,,46.1,2,1,1,210000
+Glória,,46.1,2,1,1,210000
+Gameleira,,43.9,2,1,1,210000
+Nova Gameleira,,43.9,2,1,1,210000
+São Francisco,,60,2,1,1,210000
+Camargos,,55,2,1,1,214995
+Califórnia,,55,2,1,1,214995
+São Francisco,,45,2,1,1,215000
+São João Batista,,50,2,1,1,215000
+{{ nomeBairro }}{{#if logradouroPublico}},{{ logradouroPublico}}{{/if}},{{areaRealPrivativa}}{{metragem}},0,0,0,"{{#ifCond paramTransacao ""venda""}}{{ valorImovelFormat }}{{else}}{{ valorLocacaoFormat }}{{/ifCond}}"
