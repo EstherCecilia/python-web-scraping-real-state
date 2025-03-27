@@ -35,7 +35,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-33 🏃 Execução
+## 🏃 Execução
 Modo básico:
 
 ```sh
